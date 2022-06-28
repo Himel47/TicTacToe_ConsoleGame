@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\TicTacToeGame\bin\Debug\net6.0\TicTacToeGame.exe
+C:\Users\LENOVO\Desktop\TicTacToeGame\bin\Debug\net6.0\TicTacToeGame.deps.json
+C:\Users\LENOVO\Desktop\TicTacToeGame\bin\Debug\net6.0\TicTacToeGame.runtimeconfig.json
+C:\Users\LENOVO\Desktop\TicTacToeGame\bin\Debug\net6.0\TicTacToeGame.dll
+C:\Users\LENOVO\Desktop\TicTacToeGame\bin\Debug\net6.0\TicTacToeGame.pdb
+C:\Users\LENOVO\Desktop\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.dll
+C:\Users\LENOVO\Desktop\TicTacToeGame\obj\Debug\net6.0\refint\TicTacToeGame.dll
+C:\Users\LENOVO\Desktop\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.pdb
+C:\Users\LENOVO\Desktop\TicTacToeGame\obj\Debug\net6.0\TicTacToeGame.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\TicTacToeGame\obj\Debug\net6.0\ref\TicTacToeGame.dll
